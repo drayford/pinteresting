@@ -1,0 +1,17 @@
+@import url(http://fonts.googleapis.com/css?family=Alegreya+Sans+SC);
+
+$body-bg: #ecf0f1;
+$navbar-height: 45px;
+$navbar-default-bg: #7f8c8d;
+$navbar-default-link-color: white;
+$jumbotron-bg: #7f8c8d;
+
+@import 'bootstrap';
+
+.center {
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
